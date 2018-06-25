@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Archiver-Version: Plexus Archiver
-Created-By: Apache Maven 3.3.9
-Built-By: 2018_in03
-Build-Jdk: 10.0.1
-Class-Path: lib/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-
- core-2.9.6.jar
-Main-Class: Main
-
